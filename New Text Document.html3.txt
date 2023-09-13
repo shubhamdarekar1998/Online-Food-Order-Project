@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Font Awesome 5 Icons</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<!--Get your own code at fontawesome.com-->
+</head>
+<body>
+
+<h1>far fa-grin-beam</h1>
+
+<i class='far fa-grin-beam' style='font-size:24px'></i>
+
+
+
+</body>
+</html>
